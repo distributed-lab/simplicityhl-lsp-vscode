@@ -6,9 +6,9 @@
 	"displayName": "SimplicityHL language server extension",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/distributed-lab/simplicityhl-lsp"
+		"url": "https://github.com/distributed-lab/simplicityhl-lsp-vscode"
 	},
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"categories": [],
 	"keywords": [
 		"Simplicity",
@@ -58,6 +58,5 @@
 		"@types/vscode": "^1.66.0",
 		"@vscode/test-electron": "^2.3.9",
 		"vscode-languageclient": "^9.0.1"
-	},
-	"packageManager": "pnpm@8.15.7"
+	}
 }
