@@ -25,6 +25,4 @@ This will generate a `.vsix` package that you can install into VS Code:
 ```bash
 code --install-extension simplicityhl-lsp-*.vsix
 ```
-```
-
 
